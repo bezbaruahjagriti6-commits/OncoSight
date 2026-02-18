@@ -1,0 +1,4 @@
+variant,most_severe_consequence,gene,gene_id,transcript_id,consequence_terms,HGVSc,HGVSp,biotype,kg_uid,kg_direction,kg_padj,kg_log2FoldChange,kg_source
+15:74280669-74280669 G/T,missense_variant,,ENSG00000140481,ENST00000398814,"missense_variant,splice_region_variant",,,protein_coding,BM_410,down,0.0186825531984505,-4.39401970513062,tnbc140226
+15:74280669-74280669 G/T,missense_variant,,ENSG00000140481,ENST00000558659,"missense_variant,splice_region_variant",,,protein_coding,BM_410,down,0.0186825531984505,-4.39401970513062,tnbc140226
+15:74280669-74280669 G/T,missense_variant,,ENSG00000140481,ENST00000635913,"missense_variant,splice_region_variant",,,protein_coding,BM_410,down,0.0186825531984505,-4.39401970513062,tnbc140226

@@ -1,0 +1,2004 @@
+# Variant: 1:17028723-17028723 A/G | input: 1 17028723 . A G . . .
+# Most severe consequence: synonymous_variant | Gene: 
+# Gene ID: ENSG00000117118
+  Transcript: ENST00000375499 | synonymous_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000463045 | synonymous_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000466613 | downstream_gene_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000475506 | non_coding_transcript_exon_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000485515 | synonymous_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000491274 | synonymous_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000714029 | synonymous_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000714030 | synonymous_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000714031 | synonymous_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000714032 | synonymous_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000714033 | 3_prime_UTR_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000714034 | synonymous_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000714035 | 3_prime_UTR_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000714036 | synonymous_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000714037 | synonymous_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000714038 | synonymous_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000925621 | synonymous_variant | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: 1:71819950-71819950 C/T | input: 1 71819950 . C T . . .
+# Most severe consequence: intron_variant | Gene: 
+# Gene ID: ENSG00000172260
+  Transcript: ENST00000306821 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000357731 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000453121 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000467479 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | protein_coding_CDS_not_defined
+
+# Variant: 1:72220003-72220003 T/C | input: 1 72220003 . T C . . .
+# Most severe consequence: intron_variant | Gene: 
+# Gene ID: ENSG00000172260
+  Transcript: ENST00000357731 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: 1:72275051-72275051 C/A | input: 1 72275051 . C A . . .
+# Most severe consequence: non_coding_transcript_exon_variant | Gene: 
+# Gene ID: ENSG00000172260
+  Transcript: ENST00000357731 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000445131 | non_coding_transcript_exon_variant | HGVSc:  | HGVSp:  | processed_pseudogene
+
+# Variant: 1:77965056-77965056 A/G | input: 1 77965056 . A G . . .
+# Most severe consequence: intron_variant | Gene: 
+# Gene ID: ENSG00000162613
+  Transcript: ENST00000294623 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000370767 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000370768 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000421641 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000470287 | upstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding_CDS_not_defined
+  Transcript: ENST00000703586 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000867290 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000867291 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000867292 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000867293 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000867294 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000867295 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000867296 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000867297 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000867298 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000867299 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000939330 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000939331 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000939332 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000939333 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000939334 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000957402 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000957403 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000957404 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000957405 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: 1:149813550-149813550 G/- | input: 1 149813549 . CG C . . .
+# Most severe consequence: frameshift_variant | Gene: 
+# Gene ID: ENSG00000183598
+  Transcript: ENST00000331491 | frameshift_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000369167 | upstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000420462 | upstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding_CDS_not_defined
+  Transcript: ENST00000469483 | upstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding_CDS_not_defined
+  Transcript: ENST00000545683 | upstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000620458 | upstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding_CDS_not_defined
+  Transcript: ENST00000778923 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | lncRNA
+
+# Variant: 10:121474628-121474628 T/G | input: 10 121474628 . T G . . .
+# Most severe consequence: upstream_gene_variant | Gene: 
+# Gene ID: ENSG00000066468
+  Transcript: ENST00000351936 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000356226 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000357555 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000358487 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000369059 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000369060 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000369061 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000457416 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000478859 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000604236 | downstream_gene_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000613048 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000638709 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000682296 | downstream_gene_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000682550 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000682772 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000682904 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding_CDS_not_defined
+  Transcript: ENST00000683029 | downstream_gene_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000683211 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000683250 | downstream_gene_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000683418 | downstream_gene_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000684153 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000684516 | downstream_gene_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000841803 | upstream_gene_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000937092 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000937093 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: 13:26396263-26396263 A/C | input: 13 26396263 . A C . . .
+# Most severe consequence: non_coding_transcript_exon_variant | Gene: 
+# Gene ID: ENSG00000132964
+  Transcript: ENST00000381527 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000465820 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000477277 | non_coding_transcript_exon_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000480323 | upstream_gene_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000536792 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000625988 | upstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000700501 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000700502 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | protein_coding_CDS_not_defined
+  Transcript: ENST00000700503 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | protein_coding_CDS_not_defined
+  Transcript: ENST00000700504 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | protein_coding_CDS_not_defined
+  Transcript: ENST00000700505 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | protein_coding_CDS_not_defined
+  Transcript: ENST00000869726 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000869727 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000869728 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000869729 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000869730 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000869731 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000869732 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000869733 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000869734 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000923333 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: 13:113306348-113306348 C/T | input: 13 113306348 . C T . . .
+# Most severe consequence: non_coding_transcript_exon_variant | Gene: 
+# Gene ID: ENSG00000185896
+  Transcript: ENST00000332556 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000472564 | non_coding_transcript_exon_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000886113 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000886114 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000886115 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000886116 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000886117 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000886118 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000886119 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000886120 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000929071 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000945470 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: 15:92979294-92979294 G/A | input: 15 92979294 . G A . . .
+# Most severe consequence: intron_variant | Gene: 
+# Gene ID: ENSG00000173575
+  Transcript: ENST00000394196 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000625463 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000625662 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000626874 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000628118 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000635856 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | protein_coding_CDS_not_defined
+  Transcript: ENST00000636306 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | protein_coding_CDS_not_defined
+  Transcript: ENST00000636410 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding_CDS_not_defined
+  Transcript: ENST00000636881 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000637572 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000700550 | downstream_gene_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000700551 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+
+# Variant: 16:2546825-2546825 G/A | input: 16 2546825 . G A . . .
+# Most severe consequence: intron_variant | Gene: 
+# Gene ID: ENSG00000140992
+  Transcript: ENST00000268673 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000342085 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000389224 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000441549 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000461815 | upstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000474706 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000492021 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000566659 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000570136 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000805416 | downstream_gene_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000894430 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000894431 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000894432 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000957853 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000957854 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000957855 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: 16:72969550-72969550 A/G | input: 16 72969550 . A G . . .
+# Most severe consequence: intron_variant | Gene: 
+# Gene ID: ENSG00000140836
+  Transcript: ENST00000268489 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000397992 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000623805 | downstream_gene_variant | HGVSc:  | HGVSp:  | TEC
+  Transcript: ENST00000641206 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: 16:73303240-73303240 C/T | input: 16 73303240 . C T . . .
+# Most severe consequence: intron_variant | Gene: 
+# Gene ID: ENSG00000140836
+  Transcript: ENST00000641206 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: 17:7674877-7674879 CAC/- | input: 17 7674876 . GCAC G . . .
+# Most severe consequence: inframe_deletion | Gene: 
+# Gene ID: ENSG00000141510
+  Transcript: ENST00000269305 | inframe_deletion | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000359597 | inframe_deletion | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000413465 | inframe_deletion | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000420246 | inframe_deletion | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000445888 | inframe_deletion | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000455263 | inframe_deletion | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000503591 | inframe_deletion | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000504290 | inframe_deletion | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000504937 | inframe_deletion | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000505014 | non_coding_transcript_exon_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000508793 | inframe_deletion | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000509690 | inframe_deletion | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000510385 | inframe_deletion | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000514944 | inframe_deletion | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000574684 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | protein_coding_CDS_not_defined
+  Transcript: ENST00000576024 | inframe_deletion | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000604348 | inframe_deletion | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000610292 | inframe_deletion | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000610538 | inframe_deletion | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000610623 | inframe_deletion | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000618944 | inframe_deletion | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000619186 | inframe_deletion | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000619485 | inframe_deletion | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000620739 | inframe_deletion | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000622645 | inframe_deletion | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000635293 | inframe_deletion,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000714356 | inframe_deletion | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000714357 | inframe_deletion | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000714358 | 3_prime_UTR_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000714359 | inframe_deletion | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000714408 | inframe_deletion | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000714409 | inframe_deletion | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000905353 | inframe_deletion | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000923566 | inframe_deletion | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000923567 | inframe_deletion | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000923568 | inframe_deletion | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000923569 | inframe_deletion | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000949117 | inframe_deletion | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: 17:7674879-7674879 C/G | input: 17 7674879 . C G . . .
+# Most severe consequence: missense_variant | Gene: 
+# Gene ID: ENSG00000141510
+  Transcript: ENST00000269305 | missense_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000359597 | missense_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000413465 | missense_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000420246 | missense_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000445888 | missense_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000455263 | missense_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000503591 | missense_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000504290 | missense_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000504937 | missense_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000505014 | non_coding_transcript_exon_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000508793 | missense_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000509690 | missense_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000510385 | missense_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000514944 | missense_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000574684 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | protein_coding_CDS_not_defined
+  Transcript: ENST00000576024 | missense_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000604348 | missense_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000610292 | missense_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000610538 | missense_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000610623 | missense_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000618944 | missense_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000619186 | missense_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000619485 | missense_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000620739 | missense_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000622645 | missense_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000635293 | missense_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000714356 | missense_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000714357 | missense_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000714358 | 3_prime_UTR_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000714359 | missense_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000714408 | missense_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000714409 | missense_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000905353 | missense_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000923566 | missense_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000923567 | missense_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000923568 | missense_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000923569 | missense_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000949117 | missense_variant | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: 17:42329272-42329272 G/A | input: 17 42329272 . G A . . .
+# Most severe consequence: non_coding_transcript_exon_variant | Gene: 
+# Gene ID: ENSG00000168610
+  Transcript: ENST00000264657 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000389272 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000404395 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000471989 | upstream_gene_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000478276 | downstream_gene_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000498330 | upstream_gene_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000585517 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000588969 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000676636 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000677002 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000677030 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000677152 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000677270 | upstream_gene_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000677271 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000677308 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000677421 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000677442 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000677479 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000677603 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000677723 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000677763 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000677820 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000678043 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000678044 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000678048 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000678108 | non_coding_transcript_exon_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000678445 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000678529 | downstream_gene_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000678535 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000678572 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000678659 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000678674 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000678764 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000678792 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000678827 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000678905 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000678906 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000678913 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000678960 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000679014 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000679166 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000679185 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000679231 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000715205 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000858552 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000858553 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000858554 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000858555 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000858556 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000858557 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000858558 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000858559 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000858560 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000858561 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000858562 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000922763 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000922764 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000922765 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000922766 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000922767 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000922768 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000922769 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000922770 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000943782 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000943783 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000943784 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000943785 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000943786 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000943787 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000943788 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000943789 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000943790 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000943791 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000943792 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000943793 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000943794 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000943795 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000943796 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000943797 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000943798 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000943799 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000943800 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000943801 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000943802 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000943803 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000943804 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000943805 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: 17:58378493-58378493 G/T | input: 17 58378493 . G T . . .
+# Most severe consequence: intron_variant | Gene: 
+# Gene ID: ENSG00000108375
+  Transcript: ENST00000407977 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000577625 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000577716 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000581868 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000583753 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000583841 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000584437 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000876688 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000876690 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: 17:65530192-65530192 T/G | input: 17 65530192 . T G . . .
+# Most severe consequence: intron_variant | Gene: 
+# Gene ID: ENSG00000168646
+  Transcript: ENST00000307078 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000375702 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000578251 | downstream_gene_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000618960 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000881031 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000881032 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000881033 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000881034 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000881035 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000936614 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000936615 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: 19:5214775-5214775 G/A | input: 19 5214775 . G A . . .
+# Most severe consequence: intron_variant | Gene: 
+# Gene ID: ENSG00000105426
+  Transcript: ENST00000262963 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000587303 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000588012 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000588552 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | protein_coding_CDS_not_defined
+  Transcript: ENST00000589851 | downstream_gene_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000592099 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000706768 | upstream_gene_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000706769 | upstream_gene_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000850941 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000919618 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000919619 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: 19:5246081-5246081 T/C | input: 19 5246081 . T C . . .
+# Most severe consequence: intron_variant | Gene: 
+# Gene ID: ENSG00000105426
+  Transcript: ENST00000262963 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000587303 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000588012 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000588552 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | protein_coding_CDS_not_defined
+  Transcript: ENST00000592099 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000706770 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | protein_coding_CDS_not_defined
+  Transcript: ENST00000706771 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000850941 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000919618 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000919619 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: 19:42294766-42294766 C/T | input: 19 42294766 . C T . . .
+# Most severe consequence: intron_variant | Gene: 
+# Gene ID: ENSG00000079432
+  Transcript: ENST00000160740 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000262890 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000538771 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000571033 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000572681 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000573349 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000575287 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000575354 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000576505 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000594989 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000595530 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000596265 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000681038 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000684265 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | protein_coding_CDS_not_defined
+  Transcript: ENST00000868566 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000877854 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000877855 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000877856 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000916656 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000916657 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000916658 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000916659 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000916660 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000916661 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000916662 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000940332 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000940333 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: 2:29841954-29841954 C/G | input: 2 29841954 . C G . . .
+# Most severe consequence: intron_variant | Gene: 
+# Gene ID: ENSG00000171094
+  Transcript: ENST00000389048 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000669284 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | lncRNA
+
+# Variant: 2:42288321-42288321 A/G | input: 2 42288321 . A G . . .
+# Most severe consequence: missense_variant | Gene: 
+# Gene ID: ENSG00000143924
+  Transcript: ENST00000318522 | missense_variant,splice_region_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000401738 | missense_variant,splice_region_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000402711 | missense_variant,splice_region_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000406175 | splice_region_variant,non_coding_transcript_exon_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000480320 | non_coding_transcript_exon_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000862356 | missense_variant,splice_region_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000862357 | missense_variant,splice_region_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000921467 | missense_variant,splice_region_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000921468 | missense_variant,splice_region_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000921469 | missense_variant,splice_region_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000921470 | missense_variant,splice_region_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000921471 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000921472 | missense_variant,splice_region_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000921473 | missense_variant,splice_region_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000921474 | missense_variant,splice_region_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000921475 | missense_variant,splice_region_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000963712 | missense_variant,splice_region_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000963713 | missense_variant,splice_region_variant | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: 2:47512394-47512394 G/A | input: 2 47512394 . G A . . .
+# Most severe consequence: missense_variant | Gene: 
+# Gene ID: ENSG00000184261
+  Transcript: ENST00000327876 | 3_prime_UTR_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000406134 | missense_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000644092 | 3_prime_UTR_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000644900 | 3_prime_UTR_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000645339 | missense_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000645506 | missense_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000646415 | missense_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000910408 | 3_prime_UTR_variant | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: 2:98581786-98581786 A/G | input: 2 98581786 . A G . . .
+# Most severe consequence: 3_prime_UTR_variant | Gene: 
+# Gene ID: ENSG00000040933
+  Transcript: ENST00000409016 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000409463 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000409540 | 3_prime_UTR_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000409851 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000498026 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | protein_coding_CDS_not_defined
+  Transcript: ENST00000523221 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000706935 | 3_prime_UTR_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000715853 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000715854 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000715897 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000715898 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000715899 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000715900 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000715901 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000715902 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000851855 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000851856 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000851857 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000851858 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000851859 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000851860 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000920516 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000920517 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000920518 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000920519 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000920520 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000920521 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000941124 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000941125 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000941126 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000941127 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000941128 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000941129 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000941130 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000941131 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: 2:140359001-140359001 A/G | input: 2 140359001 . A G . . .
+# Most severe consequence: intron_variant | Gene: 
+# Gene ID: ENSG00000168702
+  Transcript: ENST00000389484 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000437977 | upstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000772126 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000772127 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | lncRNA
+
+# Variant: 2:140683774-140683774 A/T | input: 2 140683774 . A T . . .
+# Most severe consequence: non_coding_transcript_exon_variant | Gene: 
+# Gene ID: ENSG00000168702
+  Transcript: ENST00000389484 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000427448 | non_coding_transcript_exon_variant | HGVSc:  | HGVSp:  | processed_pseudogene
+
+# Variant: 2:189854191-189854191 C/T | input: 2 189854191 . C T . . .
+# Most severe consequence: intron_variant | Gene: 
+# Gene ID: ENSG00000064933
+  Transcript: ENST00000342075 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000409593 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000409823 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000418224 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000421722 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | protein_coding_CDS_not_defined
+  Transcript: ENST00000424059 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | protein_coding_CDS_not_defined
+  Transcript: ENST00000424307 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000432292 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000441310 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000447232 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000447734 | downstream_gene_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000450931 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000452382 | upstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000483293 | upstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding_CDS_not_defined
+  Transcript: ENST00000618056 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000624204 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000772194 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000899827 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000899828 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000899829 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000899830 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000899831 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000899832 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000899833 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000899834 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000921100 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000921101 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000921102 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000921103 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000921104 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000921105 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000921106 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000921107 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000921108 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000921109 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000921110 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000921111 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000921112 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000921113 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000921114 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000921115 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000961090 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000961091 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000961092 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: 2:208239283-208239283 G/A | input: 2 208239283 . G A . . .
+# Most severe consequence: intron_variant | Gene: 
+# Gene ID: ENSG00000138413
+  Transcript: ENST00000345146 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000415913 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000446179 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000484575 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000862219 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000862220 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000862221 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000862222 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000862223 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000862224 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000862225 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000862226 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000862227 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000862228 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000862229 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000862230 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000911595 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000911596 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000911597 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000911598 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000911599 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000911600 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000911601 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000911602 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000911603 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000911604 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000911605 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000961866 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000961867 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: 2:212530655-212530655 T/A | input: 2 212530655 . T A . . .
+# Most severe consequence: intron_variant | Gene: 
+# Gene ID: ENSG00000178568
+  Transcript: ENST00000260943 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000342788 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000436443 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000484594 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | retained_intron
+
+# Variant: 2:214730435-214730435 T/C | input: 2 214730435 . T C . . .
+# Most severe consequence: synonymous_variant | Gene: 
+# Gene ID: ENSG00000138376
+  Transcript: ENST00000260947 | synonymous_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000421162 | synonymous_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000432456 | synonymous_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000455743 | 3_prime_UTR_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000471590 | non_coding_transcript_exon_variant | HGVSc:  | HGVSp:  | protein_coding_CDS_not_defined
+  Transcript: ENST00000613192 | 3_prime_UTR_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000613374 | synonymous_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000613706 | synonymous_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000617164 | synonymous_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000619009 | synonymous_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000620057 | 3_prime_UTR_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000650978 | 3_prime_UTR_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000887324 | synonymous_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000915563 | synonymous_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000915564 | synonymous_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000915565 | synonymous_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000915566 | synonymous_variant | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: 21:35472890-35472890 C/A | input: 21 35472890 . C A . . .
+# Most severe consequence: intron_variant | Gene: 
+# Gene ID: ENSG00000223671
+  Transcript: ENST00000421454 | upstream_gene_variant | HGVSc:  | HGVSp:  | processed_pseudogene
+  Transcript: ENST00000467692 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | protein_coding_CDS_not_defined
+  Transcript: ENST00000475045 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: 21:35911619-35911619 T/C | input: 21 35911619 . T C . . .
+# Most severe consequence: intron_variant | Gene: 
+# Gene ID: ENSG00000159216
+  Transcript: ENST00000475045 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: 3:10073491-10073491 G/A | input: 3 10073491 . G A . . .
+# Most severe consequence: intron_variant | Gene: 
+# Gene ID: ENSG00000144554
+  Transcript: ENST00000287647 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000419585 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000421731 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000470757 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding_CDS_not_defined
+  Transcript: ENST00000480909 | downstream_gene_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000675286 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000676013 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000681997 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | protein_coding_CDS_not_defined
+  Transcript: ENST00000683263 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | protein_coding_CDS_not_defined
+  Transcript: ENST00000915094 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000915095 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000915096 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000915097 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000915098 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000915099 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000915100 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000915101 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000915102 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000915103 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000915104 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000915105 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000915106 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000915107 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000915108 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000915109 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000915110 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000915111 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000915112 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000915113 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000915114 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000915115 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: 3:120029199-120029199 C/A | input: 3 120029199 . C A . . .
+# Most severe consequence: non_coding_transcript_exon_variant | Gene: 
+# Gene ID: ENSG00000082701
+  Transcript: ENST00000264235 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000316626 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000482027 | non_coding_transcript_exon_variant | HGVSc:  | HGVSp:  | processed_pseudogene
+  Transcript: ENST00000650344 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000677034 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000677128 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000677169 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000677530 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000677788 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | protein_coding_CDS_not_defined
+  Transcript: ENST00000678245 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000678439 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000678483 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000679131 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | protein_coding_CDS_not_defined
+  Transcript: ENST00000899265 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000899266 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: 3:142550345-142550345 G/T | input: 3 142550345 . G T . . .
+# Most severe consequence: intron_variant | Gene: 
+# Gene ID: ENSG00000175054
+  Transcript: ENST00000350721 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000515149 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000653868 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000656582 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000656590 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000659195 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000661310 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000892891 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000936442 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000936443 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: 3:170235119-170235119 T/C | input: 3 170235119 . T C . . .
+# Most severe consequence: intron_variant | Gene: 
+# Gene ID: ENSG00000163558
+  Transcript: ENST00000295797 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000904925 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000904926 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000904927 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000919187 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000919188 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000919189 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000919190 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000919191 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000919192 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000919193 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000947708 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: 3:182961130-182961130 T/C | input: 3 182961130 . T C . . .
+# Most severe consequence: intron_variant | Gene: 
+# Gene ID: ENSG00000043093
+  Transcript: ENST00000292782 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000460412 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000460975 | upstream_gene_variant | HGVSc:  | HGVSp:  | processed_pseudogene
+  Transcript: ENST00000466812 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000469954 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000487822 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000492563 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000497606 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000632685 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000925547 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000925548 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: 4:1804631-1804631 G/A | input: 4 1804631 . G A . . .
+# Most severe consequence: non_coding_transcript_exon_variant | Gene: 
+# Gene ID: ENSG00000068078
+  Transcript: ENST00000260795 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000340107 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000352904 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000412135 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000440486 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000469068 | non_coding_transcript_exon_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000474521 | downstream_gene_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000481110 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000507588 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000643463 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding_CDS_not_defined
+  Transcript: ENST00000901225 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000901226 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000901227 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000901228 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000911470 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000911471 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000911472 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000911473 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000911474 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000955401 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000955402 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000955403 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000955404 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: 4:54256614-54256614 A/G | input: 4 54256614 . A G . . .
+# Most severe consequence: intron_variant | Gene: 
+# Gene ID: ENSG00000134853
+  Transcript: ENST00000257290 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000503856 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000504461 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000508170 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000509092 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000509490 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000512143 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000512522 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000870889 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000870890 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000958745 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000958746 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000958747 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000958748 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000958749 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000958750 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000958751 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000958752 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000958753 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000958754 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000958755 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: 4:65367514-65367514 T/C | input: 4 65367514 . T C . . .
+# Most severe consequence: intron_variant | Gene: 
+# Gene ID: ENSG00000145242
+  Transcript: ENST00000273854 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000354839 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000432638 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000511294 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000613740 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000622150 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000893304 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: 4:142427368-142427368 G/T | input: 4 142427368 . G T . . .
+# Most severe consequence: 3_prime_UTR_variant | Gene: 
+# Gene ID: ENSG00000109452
+  Transcript: ENST00000262992 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000503927 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000504632 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | protein_coding_CDS_not_defined
+  Transcript: ENST00000506000 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000506217 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000506243 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | protein_coding_CDS_not_defined
+  Transcript: ENST00000506517 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000506788 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000507861 | 3_prime_UTR_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000508116 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000509777 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000510812 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000512630 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000513000 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000630044 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000690114 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000692370 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000860883 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000860884 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000860885 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: 4:184479248-184479248 A/C | input: 4 184479248 . A C . . .
+# Most severe consequence: intron_variant | Gene: 
+# Gene ID: ENSG00000168310
+  Transcript: ENST00000393593 | upstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000502750 | upstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000504340 | upstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000512020 | upstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding_CDS_not_defined
+  Transcript: ENST00000605834 | downstream_gene_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000667665 | upstream_gene_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000696840 | upstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000696842 | upstream_gene_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000696843 | upstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000696844 | upstream_gene_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000696845 | upstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000696846 | upstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000696850 | upstream_gene_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000696851 | upstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000696852 | upstream_gene_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000696853 | upstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000696854 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000696855 | upstream_gene_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000717452 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000781275 | upstream_gene_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000883917 | upstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000883918 | upstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: 4:186588391-186588391 G/T | input: 4 186588391 . G T . . .
+# Most severe consequence: 3_prime_UTR_variant | Gene: 
+# Gene ID: ENSG00000083857
+  Transcript: ENST00000441802 | 3_prime_UTR_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000500085 | non_coding_transcript_exon_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000507105 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000509537 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000509927 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000512772 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000917424 | 3_prime_UTR_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000917425 | 3_prime_UTR_variant | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: 5:35873714-35873714 T/A | input: 5 35873714 . T A . . .
+# Most severe consequence: intron_variant | Gene: 
+# Gene ID: ENSG00000168685
+  Transcript: ENST00000303115 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000505093 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000505875 | upstream_gene_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000506850 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000509668 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000514217 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000877114 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: 5:38978496-38978496 G/A | input: 5 38978496 . G A . . .
+# Most severe consequence: intron_variant | Gene: 
+# Gene ID: ENSG00000164327
+  Transcript: ENST00000296782 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000357387 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000510711 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000511516 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000513566 | downstream_gene_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000514735 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000711063 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000857125 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: 5:39002427-39002427 A/C | input: 5 39002427 . A C . . .
+# Most severe consequence: intron_variant | Gene: 
+# Gene ID: ENSG00000164327
+  Transcript: ENST00000296782 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000357387 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000510711 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000511516 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000513566 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000514735 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000711063 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000857125 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: 5:80728649-80728649 C/G | input: 5 80728649 . C G . . .
+# Most severe consequence: intron_variant | Gene: 
+# Gene ID: ENSG00000113318
+  Transcript: ENST00000265081 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000512258 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | protein_coding_CDS_not_defined
+  Transcript: ENST00000658259 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000667069 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000670357 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000875834 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000875835 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000875836 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000933917 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000969133 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000969134 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: 6:27808196-27808196 A/G | input: 6 27808196 . A G . . .
+# Most severe consequence: 5_prime_UTR_variant | Gene: 
+# Gene ID: ENSG00000196747
+  Transcript: ENST00000358739 | 5_prime_UTR_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000369163 | upstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000377401 | upstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000406085 | downstream_gene_variant | HGVSc:  | HGVSp:  | processed_pseudogene
+  Transcript: ENST00000685041 | upstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: 6:27814229-27814229 C/G | input: 6 27814229 . C G . . .
+# Most severe consequence: upstream_gene_variant | Gene: 
+# Gene ID: ENSG00000276368
+  Transcript: ENST00000333151 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000369163 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000621112 | upstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000685041 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: 6:43771249-43771249 G/A | input: 6 43771249 . G A . . .
+# Most severe consequence: start_lost | Gene: 
+# Gene ID: ENSG00000112715
+  Transcript: ENST00000230480 | upstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000324450 | missense_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000372055 | missense_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000372064 | missense_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000372067 | missense_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000372077 | start_lost | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000413642 | missense_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000417285 | missense_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000425836 | missense_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000457104 | start_lost | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000476772 | non_coding_transcript_exon_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000480614 | upstream_gene_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000482630 | missense_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000512683 | non_coding_transcript_exon_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000518538 | non_coding_transcript_exon_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000518689 | start_lost | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000518824 | start_lost | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000519767 | missense_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000520265 | upstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000520948 | start_lost | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000523125 | start_lost | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000523873 | start_lost | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000523950 | start_lost | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000607600 | upstream_gene_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000672860 | missense_variant | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: 6:93264724-93264724 T/A | input: 6 93264724 . T A . . .
+# Most severe consequence: intron_variant | Gene: 
+# Gene ID: ENSG00000135333
+  Transcript: ENST00000369303 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000679565 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000679915 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000680082 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000680190 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000680224 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000680473 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | protein_coding_CDS_not_defined
+  Transcript: ENST00000680813 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | protein_coding_CDS_not_defined
+  Transcript: ENST00000680953 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000681130 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000681532 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000868213 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000868214 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000922908 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: 6:161111824-161111824 T/C | input: 6 161111824 . T C . . .
+# Most severe consequence: splice_polypyrimidine_tract_variant | Gene: 
+# Gene ID: ENSG00000085511
+  Transcript: ENST00000348824 | splice_polypyrimidine_tract_variant,intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000366919 | splice_polypyrimidine_tract_variant,intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000366920 | splice_polypyrimidine_tract_variant,intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000392142 | splice_polypyrimidine_tract_variant,intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000490904 | splice_polypyrimidine_tract_variant,intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000536852 | splice_polypyrimidine_tract_variant,intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000539610 | downstream_gene_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000541901 | downstream_gene_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000544041 | splice_polypyrimidine_tract_variant,intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000544733 | downstream_gene_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000875639 | splice_polypyrimidine_tract_variant,intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000922279 | splice_polypyrimidine_tract_variant,intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000922280 | splice_polypyrimidine_tract_variant,intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000922281 | splice_polypyrimidine_tract_variant,intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000946145 | splice_polypyrimidine_tract_variant,intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000946146 | splice_polypyrimidine_tract_variant,intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000946147 | splice_polypyrimidine_tract_variant,intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000946148 | splice_polypyrimidine_tract_variant,intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000946149 | splice_polypyrimidine_tract_variant,intron_variant | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: 7:50345161-50345161 C/T | input: 7 50345161 . C T . . .
+# Most severe consequence: intron_variant | Gene: 
+# Gene ID: ENSG00000185811
+  Transcript: ENST00000331340 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000346667 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000359197 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000413698 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000426121 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000438033 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000439701 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000462201 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000471793 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000492782 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000615491 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000642219 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000645066 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000646110 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000698573 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000698574 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000698575 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000858039 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000858040 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000858041 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000858042 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000858043 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000858044 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000858045 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000858046 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000858047 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000858048 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000858049 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000858050 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000858051 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000858052 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000858053 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000858054 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000858055 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000858056 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000858057 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000858058 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000858059 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000858060 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000858061 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000858062 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000858063 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000858064 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000858065 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000971279 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000971280 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: 7:55064950-55064950 G/A | input: 7 55064950 . G A . . .
+# Most severe consequence: intron_variant | Gene: 
+# Gene ID: ENSG00000146648
+  Transcript: ENST00000275493 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000342916 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000344576 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000420316 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000455089 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000463948 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | protein_coding_CDS_not_defined
+  Transcript: ENST00000700144 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000898199 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000898200 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000898201 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000898202 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: 7:55174773-55174787 GAATTAAGAGAAGCA/- | input: 7 55174772 . GGAATTAAGAGAAGCA G . . .
+# Most severe consequence: inframe_deletion | Gene: 
+# Gene ID: ENSG00000146648
+  Transcript: ENST00000275493 | inframe_deletion | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000344576 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000442411 | downstream_gene_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000450046 | inframe_deletion | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000455089 | inframe_deletion | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000700145 | inframe_deletion | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000898199 | inframe_deletion | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000898200 | inframe_deletion | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000898201 | inframe_deletion | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000898202 | inframe_deletion | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: 7:55174773-55174773 G/A | input: 7 55174773 . G A . . .
+# Most severe consequence: missense_variant | Gene: 
+# Gene ID: ENSG00000146648
+  Transcript: ENST00000275493 | missense_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000344576 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000442411 | downstream_gene_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000450046 | missense_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000455089 | missense_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000700145 | missense_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000898199 | missense_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000898200 | missense_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000898201 | missense_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000898202 | missense_variant | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: 7:55174787-55174787 A/G | input: 7 55174787 . A G . . .
+# Most severe consequence: synonymous_variant | Gene: 
+# Gene ID: ENSG00000146648
+  Transcript: ENST00000275493 | synonymous_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000344576 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000442411 | downstream_gene_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000450046 | synonymous_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000455089 | synonymous_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000700145 | synonymous_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000898199 | synonymous_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000898200 | synonymous_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000898201 | synonymous_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000898202 | synonymous_variant | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: 7:78441225-78441225 A/C | input: 7 78441225 . A C . . .
+# Most severe consequence: intron_variant | Gene: 
+# Gene ID: ENSG00000187391
+  Transcript: ENST00000354212 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000419488 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000519748 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000520379 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000522391 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000626691 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000628781 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000629359 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000630991 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000634996 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000636039 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000636178 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000636717 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000637074 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | protein_coding_CDS_not_defined
+  Transcript: ENST00000637282 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000637441 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000637486 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000648775 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000779996 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | lncRNA
+
+# Variant: 7:81762680-81762680 T/C | input: 7 81762680 . T C . . .
+# Most severe consequence: intron_variant | Gene: 
+# Gene ID: ENSG00000019991
+  Transcript: ENST00000222390 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000354224 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000412881 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000421558 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000423064 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000444829 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000453018 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000453411 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000457544 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000465234 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000643024 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000771413 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | lncRNA
+
+# Variant: 7:116769907-116769907 C/T | input: 7 116769907 . C T . . .
+# Most severe consequence: 3_prime_UTR_variant | Gene: 
+# Gene ID: ENSG00000105976
+  Transcript: ENST00000318493 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000397752 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000422097 | 3_prime_UTR_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000436117 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000454623 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000917365 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000950406 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000950407 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: 8:41932307-41932307 G/A | input: 8 41932307 . G A . . .
+# Most severe consequence: synonymous_variant | Gene: 
+# Gene ID: ENSG00000083168
+  Transcript: ENST00000265713 | synonymous_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000396930 | synonymous_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000406337 | synonymous_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000418721 | downstream_gene_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000648335 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000649817 | synonymous_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000649827 | downstream_gene_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000650495 | downstream_gene_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000855880 | synonymous_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000919320 | synonymous_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000967392 | synonymous_variant | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: 8:116856725-116856725 G/A | input: 8 116856725 . G A . . .
+# Most severe consequence: synonymous_variant | Gene: 
+# Gene ID: ENSG00000164754
+  Transcript: ENST00000297338 | synonymous_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000517485 | synonymous_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000517749 | synonymous_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000518055 | upstream_gene_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000519837 | synonymous_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000520992 | synonymous_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000522699 | synonymous_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000523547 | non_coding_transcript_exon_variant | HGVSc:  | HGVSp:  | protein_coding_CDS_not_defined
+  Transcript: ENST00000523986 | non_coding_transcript_exon_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000685972 | non_coding_transcript_exon_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000686622 | non_coding_transcript_exon_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000687122 | non_coding_transcript_exon_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000687358 | synonymous_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000687902 | synonymous_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000688033 | non_coding_transcript_exon_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000689124 | non_coding_transcript_exon_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000689504 | non_coding_transcript_exon_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000690166 | non_coding_transcript_exon_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000690189 | non_coding_transcript_exon_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000900008 | synonymous_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000900009 | synonymous_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000900010 | synonymous_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000900011 | synonymous_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000927337 | synonymous_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000927338 | synonymous_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000927339 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000927340 | synonymous_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000927341 | synonymous_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000958516 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000958517 | synonymous_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000958518 | synonymous_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000958519 | synonymous_variant | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: 9:5510812-5510812 C/A | input: 9 5510812 . C A . . .
+# Most severe consequence: intron_variant | Gene: 
+# Gene ID: ENSG00000197646
+  Transcript: ENST00000397747 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000661858 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000861551 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000965244 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: 9:8528542-8528542 A/T | input: 9 8528542 . A T . . .
+# Most severe consequence: intron_variant | Gene: 
+# Gene ID: ENSG00000153707
+  Transcript: ENST00000355233 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000356435 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000381196 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000397606 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000397611 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000397617 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000463477 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000486161 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000488774 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | protein_coding_CDS_not_defined
+  Transcript: ENST00000537002 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000540109 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000651105 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | protein_coding_CDS_not_defined
+  Transcript: ENST00000850942 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000855711 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000855712 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000855713 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: 9:9648411-9648411 T/A | input: 9 9648411 . T A . . .
+# Most severe consequence: intron_variant | Gene: 
+# Gene ID: ENSG00000153707
+  Transcript: ENST00000381196 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000463477 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000850942 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: 9:95281611-95281611 T/A | input: 9 95281611 . T A . . .
+# Most severe consequence: intron_variant | Gene: 
+# Gene ID: ENSG00000158169
+  Transcript: ENST00000289081 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000375305 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000433829 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000474949 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000490972 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000636777 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | protein_coding_CDS_not_defined
+  Transcript: ENST00000647778 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000647882 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000648415 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | protein_coding_CDS_not_defined
+  Transcript: ENST00000649611 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000650176 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | protein_coding_CDS_not_defined
+  Transcript: ENST00000696261 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | protein_coding_CDS_not_defined
+  Transcript: ENST00000696262 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000696263 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000863589 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000863590 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000863591 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000863592 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000919082 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: 9:95468643-95468643 T/A | input: 9 95468643 . T A . . .
+# Most severe consequence: intron_variant | Gene: 
+# Gene ID: ENSG00000185920
+  Transcript: ENST00000331920 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000375271 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000375290 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000429896 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000430669 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000437951 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000549678 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000690194 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000692981 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000711046 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: 9:95480394-95480394 G/T | input: 9 95480394 . G T . . .
+# Most severe consequence: missense_variant | Gene: 
+# Gene ID: ENSG00000185920
+  Transcript: ENST00000331920 | missense_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000375271 | missense_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000375290 | missense_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000429896 | missense_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000430669 | missense_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000437951 | missense_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000468211 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000488809 | non_coding_transcript_exon_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000546820 | missense_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000547672 | missense_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000548379 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding_CDS_not_defined
+  Transcript: ENST00000548420 | missense_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000548945 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding_CDS_not_defined
+  Transcript: ENST00000550136 | downstream_gene_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000550914 | downstream_gene_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000551623 | downstream_gene_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000551630 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000551845 | missense_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000553011 | missense_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000553256 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding_CDS_not_defined
+  Transcript: ENST00000690194 | missense_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000692981 | missense_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000711046 | missense_variant | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: X:1198437-1198437 C/G | input: X 1198437 . C G . . .
+# Most severe consequence: intron_variant | Gene: 
+# Gene ID: ENSG00000205755
+  Transcript: ENST00000381567 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000400841 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000467626 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+
+# Variant: X:47174833-47174833 T/C | input: X 47174833 . T C . . .
+# Most severe consequence: intron_variant | Gene: 
+# Gene ID: ENSG00000182872
+  Transcript: ENST00000329236 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000345781 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000377604 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000478410 | upstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding_CDS_not_defined
+  Transcript: ENST00000496012 | upstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding_CDS_not_defined
+  Transcript: ENST00000628161 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000864483 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000864484 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000864485 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000864486 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000864487 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000864488 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000864489 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000864490 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000864491 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000864492 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000864493 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000864494 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000864495 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000864496 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000864497 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000864498 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000864499 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000864500 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000864501 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000864502 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000916920 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000916921 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000916922 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000916923 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000916924 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000916925 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000916926 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000916927 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000916928 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000916929 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000916930 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000916931 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000967019 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000967020 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000967021 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000967022 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000967023 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000967024 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000967025 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: X:67686239-67686239 A/G | input: X 67686239 . A G . . .
+# Most severe consequence: intron_variant | Gene: 
+# Gene ID: ENSG00000169083
+  Transcript: ENST00000374690 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000396043 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000396044 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000504326 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000513847 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | protein_coding_CDS_not_defined
+  Transcript: ENST00000514029 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000612452 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000613054 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000853518 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000853519 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: X:71420687-71420687 C/T | input: X 71420687 . C T . . .
+# Most severe consequence: intron_variant | Gene: 
+# Gene ID: ENSG00000147133
+  Transcript: ENST00000276072 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000373775 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000373790 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000391782 | upstream_gene_variant | HGVSc:  | HGVSp:  | processed_pseudogene
+  Transcript: ENST00000423759 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000437147 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000461764 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000462588 | upstream_gene_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000463163 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000468167 | upstream_gene_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000485087 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000492404 | upstream_gene_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000682124 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000683202 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000683358 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000683668 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000683782 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000683954 | upstream_gene_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000715246 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000945393 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: X:111095006-111095006 A/T | input: X 111095006 . A T . . .
+# Most severe consequence: intron_variant | Gene: 
+# Gene ID: ENSG00000077264
+  Transcript: ENST00000372007 | upstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000372010 | upstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000425146 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000446737 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000484442 | upstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding_CDS_not_defined
+  Transcript: ENST00000518291 | upstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000519681 | upstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000798234 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000798235 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000893580 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000893581 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000893582 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000893583 | upstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000893584 | upstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000893585 | upstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000893586 | upstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000893587 | upstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000893588 | upstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000893589 | upstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000893590 | upstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000935671 | upstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000935672 | upstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000946499 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000946500 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000946501 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000946502 | upstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: 11:69773355-69773355 C/T | input: 11 69773355 . C T . . .
+# Most severe consequence: missense_variant | Gene: 
+# Gene ID: ENSG00000075388
+  Transcript: ENST00000168712 | missense_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000538040 | non_coding_transcript_exon_variant | HGVSc:  | HGVSp:  | protein_coding_CDS_not_defined
+
+# Variant: 11:108227734-108227734 A/T | input: 11 108227734 . A T . . .
+# Most severe consequence: non_coding_transcript_exon_variant | Gene: 
+# Gene ID: ENSG00000149311
+  Transcript: ENST00000278616 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000384240 | downstream_gene_variant | HGVSc:  | HGVSp:  | misc_RNA
+  Transcript: ENST00000452508 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000526567 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000527805 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000529588 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000530958 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000531525 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000532931 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000601453 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000638443 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000639240 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000639953 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000640388 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000675595 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000675843 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000682147 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | protein_coding_CDS_not_defined
+  Transcript: ENST00000682430 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | protein_coding_CDS_not_defined
+  Transcript: ENST00000682465 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000682516 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | protein_coding_CDS_not_defined
+  Transcript: ENST00000682956 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000683150 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000683174 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000683468 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000683488 | non_coding_transcript_exon_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000683914 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000684029 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000684037 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000684061 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000684179 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000713593 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000713840 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000713841 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000713842 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000713843 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000713844 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000713845 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000713846 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000713847 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000923922 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000971291 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: 11:119311232-119311232 C/A | input: 11 119311232 . C A . . .
+# Most severe consequence: non_coding_transcript_exon_variant | Gene: 
+# Gene ID: ENSG00000110395
+  Transcript: ENST00000264033 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000264036 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000524940 | upstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding_CDS_not_defined
+  Transcript: ENST00000525555 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding_CDS_not_defined
+  Transcript: ENST00000525586 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000526190 | downstream_gene_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000526992 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding_CDS_not_defined
+  Transcript: ENST00000528502 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding_CDS_not_defined
+  Transcript: ENST00000528533 | non_coding_transcript_exon_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000528976 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | protein_coding_CDS_not_defined
+  Transcript: ENST00000529257 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding_CDS_not_defined
+  Transcript: ENST00000529295 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding_CDS_not_defined
+  Transcript: ENST00000529686 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding_CDS_not_defined
+  Transcript: ENST00000530006 | downstream_gene_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000530144 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding_CDS_not_defined
+  Transcript: ENST00000530706 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding_CDS_not_defined
+  Transcript: ENST00000530937 | downstream_gene_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000534522 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding_CDS_not_defined
+  Transcript: ENST00000616240 | downstream_gene_variant | HGVSc:  | HGVSp:  | miRNA
+  Transcript: ENST00000634301 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000634586 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000637974 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000700472 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000856035 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000856036 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000856037 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000920895 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000957745 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000957746 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000957747 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000957748 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000957749 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000957750 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000957751 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: 12:375616-375616 G/A | input: 12 375616 . G A . . .
+# Most severe consequence: intron_variant | Gene: 
+# Gene ID: ENSG00000073614
+  Transcript: ENST00000399788 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000535014 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000536014 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000544760 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: 12:6591615-6591615 A/G | input: 12 6591615 . A G . . .
+# Most severe consequence: intron_variant | Gene: 
+# Gene ID: ENSG00000111642
+  Transcript: ENST00000357008 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000537634 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000540960 | upstream_gene_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000544040 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000544484 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000545083 | downstream_gene_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000642594 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000642637 | upstream_gene_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000642810 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000642879 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000643335 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000643538 | upstream_gene_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000643815 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000644137 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000644289 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000644352 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000644356 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000644801 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000645005 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000645022 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000645095 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000645645 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000646070 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | protein_coding_CDS_not_defined
+  Transcript: ENST00000646268 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000646360 | upstream_gene_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000646366 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | protein_coding_CDS_not_defined
+  Transcript: ENST00000646608 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000646806 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000647333 | upstream_gene_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000647483 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000931042 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000931043 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000931044 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000931045 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000931046 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000931047 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000931048 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000931049 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000931050 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000931051 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000931052 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000931053 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000957179 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000957180 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000957181 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: 12:11679941-11679941 T/G | input: 12 11679941 . T G . . .
+# Most severe consequence: intron_variant | Gene: 
+# Gene ID: ENSG00000139083
+  Transcript: ENST00000396373 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000541426 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | protein_coding_CDS_not_defined
+  Transcript: ENST00000544715 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | protein_coding_CDS_not_defined
+  Transcript: ENST00000904922 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000904923 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000937343 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000937344 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000948724 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: 12:18282466-18282466 C/A | input: 12 18282466 . C A . . .
+# Most severe consequence: missense_variant | Gene: 
+# Gene ID: ENSG00000139144
+  Transcript: ENST00000433979 | missense_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000535651 | missense_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000536967 | upstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000538779 | missense_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000541632 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | protein_coding_CDS_not_defined
+  Transcript: ENST00000546003 | missense_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000675017 | missense_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000676171 | missense_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000852955 | missense_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000852956 | missense_variant | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: 12:50086152-50086152 C/T | input: 12 50086152 . C T . . .
+# Most severe consequence: splice_polypyrimidine_tract_variant | Gene: 
+# Gene ID: ENSG00000110881
+  Transcript: ENST00000228468 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000381513 | splice_polypyrimidine_tract_variant,intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000394963 | splice_polypyrimidine_tract_variant,intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000447966 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000453327 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000547247 | splice_polypyrimidine_tract_variant,intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000547637 | splice_polypyrimidine_tract_variant,intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000548573 | upstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000550477 | splice_polypyrimidine_tract_variant,intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000550558 | downstream_gene_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000551497 | splice_polypyrimidine_tract_variant,intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000551966 | splice_polypyrimidine_tract_variant,intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000552438 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000552633 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000879708 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000895671 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000895672 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000895673 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000895674 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000915404 | splice_polypyrimidine_tract_variant,intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000915405 | splice_polypyrimidine_tract_variant,intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000915406 | splice_polypyrimidine_tract_variant,intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000915407 | splice_polypyrimidine_tract_variant,intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000915408 | splice_polypyrimidine_tract_variant,intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000915409 | splice_polypyrimidine_tract_variant,intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000964545 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: 12:57754694-57754694 C/T | input: 12 57754694 . C T . . .
+# Most severe consequence: intron_variant | Gene: 
+# Gene ID: ENSG00000135446
+  Transcript: ENST00000257904 | upstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000257910 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000266643 | upstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000546489 | upstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000547281 | upstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000547853 | upstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000547992 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000548358 | upstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000549606 | upstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000550419 | upstream_gene_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000551706 | upstream_gene_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000551800 | upstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000551888 | upstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding_CDS_not_defined
+  Transcript: ENST00000552254 | upstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000552279 | upstream_gene_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000552388 | upstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000552713 | upstream_gene_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000552862 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000553237 | upstream_gene_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000918532 | upstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000918533 | upstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000918534 | upstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000918535 | upstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: 12:112479932-112479932 C/G | input: 12 112479932 . C G . . .
+# Most severe consequence: intron_variant | Gene: 
+# Gene ID: ENSG00000179295
+  Transcript: ENST00000351677 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000392597 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000635625 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000635652 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000639857 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000685487 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000687906 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000688597 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000690210 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000690472 | upstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding_CDS_not_defined
+  Transcript: ENST00000692624 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000882515 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000882516 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000882517 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000882518 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000914889 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000914890 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000971611 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000971612 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000971613 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000971614 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000971615 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: 12:114683617-114683617 A/C | input: 12 114683617 . A C . . .
+# Most severe consequence: 5_prime_UTR_variant | Gene: 
+# Gene ID: ENSG00000135111
+  Transcript: ENST00000257566 | upstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000349155 | 5_prime_UTR_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000548503 | upstream_gene_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000552054 | upstream_gene_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000653540 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000660721 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000839282 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000839283 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000839284 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000839285 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000839289 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000839293 | upstream_gene_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000839294 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000839297 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000839298 | upstream_gene_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000839313 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000839314 | upstream_gene_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000839531 | downstream_gene_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000839532 | downstream_gene_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000839533 | downstream_gene_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000839534 | downstream_gene_variant | HGVSc:  | HGVSp:  | lncRNA
+
+# Variant: 14:95126933-95126933 C/T | input: 14 95126933 . C T . . .
+# Most severe consequence: intron_variant | Gene: 
+# Gene ID: ENSG00000100697
+  Transcript: ENST00000343455 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000393063 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000526495 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000527414 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000529206 | downstream_gene_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000529720 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000531162 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000532939 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000541352 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000556045 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000674628 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000675540 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000675995 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000696733 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000696734 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000696736 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000696737 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000696739 | downstream_gene_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000696921 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000696922 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000696923 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000696924 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000696925 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000696927 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000696928 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000860615 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000860616 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000860617 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000860618 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000860619 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000860620 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000924636 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: 14:95132434-95132434 T/G | input: 14 95132434 . T G . . .
+# Most severe consequence: missense_variant | Gene: 
+# Gene ID: ENSG00000100697
+  Transcript: ENST00000343455 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000393063 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000526495 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000527414 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000529206 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000529720 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000531162 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000532939 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000541352 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000556045 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000674628 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000675540 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000675995 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000696733 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000696734 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000696736 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000696737 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000696739 | non_coding_transcript_exon_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000696740 | missense_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000696921 | non_coding_transcript_exon_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000696922 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000696923 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000696924 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000696925 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000696927 | upstream_gene_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000696928 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000860615 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000860616 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000860617 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000860618 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000860619 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000860620 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000924636 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: 14:95157376-95157376 G/C | input: 14 95157376 . G C . . .
+# Most severe consequence: 5_prime_UTR_variant | Gene: 
+# Gene ID: ENSG00000100697
+  Transcript: ENST00000343455 | 5_prime_UTR_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000393063 | 5_prime_UTR_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000435343 | upstream_gene_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000439819 | upstream_gene_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000526495 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000529206 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000529720 | upstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000531162 | upstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000532939 | 5_prime_UTR_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000554631 | upstream_gene_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000556045 | 5_prime_UTR_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000654147 | upstream_gene_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000661445 | upstream_gene_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000671073 | upstream_gene_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000674628 | upstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000675540 | 5_prime_UTR_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000675995 | upstream_gene_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000692703 | upstream_gene_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000693197 | upstream_gene_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000696733 | 5_prime_UTR_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000696734 | 5_prime_UTR_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000696736 | 5_prime_UTR_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000696737 | 5_prime_UTR_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000696739 | non_coding_transcript_exon_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000696740 | 5_prime_UTR_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000696921 | non_coding_transcript_exon_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000696922 | non_coding_transcript_exon_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000696923 | 5_prime_UTR_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000696924 | 5_prime_UTR_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000696925 | non_coding_transcript_exon_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000696928 | non_coding_transcript_exon_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000750374 | upstream_gene_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000750375 | upstream_gene_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000750376 | upstream_gene_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000750377 | upstream_gene_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000750378 | upstream_gene_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000750379 | upstream_gene_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000750380 | upstream_gene_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000750381 | upstream_gene_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000750382 | upstream_gene_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000750383 | upstream_gene_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000750384 | upstream_gene_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000750385 | upstream_gene_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000750386 | upstream_gene_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000750387 | upstream_gene_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000860615 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000860616 | 5_prime_UTR_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000860617 | 5_prime_UTR_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000860618 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000860619 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000924636 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: 20:32767427-32767427 T/G | input: 20 32767427 . T G . . .
+# Most severe consequence: intron_variant | Gene: 
+# Gene ID: ENSG00000088305
+  Transcript: ENST00000328111 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000348286 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000353855 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000443239 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000456297 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000696231 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000696232 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000696233 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000696234 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000696235 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000696236 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000696237 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | protein_coding_CDS_not_defined
+  Transcript: ENST00000919031 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: 22:29292116-29292116 A/G | input: 22 29292116 . A G . . .
+# Most severe consequence: non_coding_transcript_exon_variant | Gene: 
+# Gene ID: ENSG00000182944
+  Transcript: ENST00000331029 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000332035 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000332050 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000333395 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000360091 | upstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000397938 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000406548 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000414183 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000437155 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000455726 | downstream_gene_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000469669 | non_coding_transcript_exon_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000479135 | intron_variant,non_coding_transcript_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000483415 | downstream_gene_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000483629 | non_coding_transcript_exon_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000610553 | upstream_gene_variant | HGVSc:  | HGVSp:  | retained_intron
+  Transcript: ENST00000629659 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000780180 | downstream_gene_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000889471 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000889472 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000889473 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000889474 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000889475 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000889476 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000889477 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000889478 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000889479 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000889480 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000889481 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000889482 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000889483 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000889484 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000889485 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000889486 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000889487 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000889488 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000889489 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000889490 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000889491 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000889492 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000889494 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000889495 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000889497 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000889499 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000889500 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000889502 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000889504 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000889505 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000889506 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000889507 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000889508 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000889509 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000889510 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000889511 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000889512 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000889513 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000889514 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000925319 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000925320 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000925321 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000925322 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000925323 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000925324 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000925325 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000925326 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000925327 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000925328 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000925329 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000925330 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000925331 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000925332 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000925333 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000925334 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000959975 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000959976 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000959977 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000959978 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000959979 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000959980 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000959981 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000959982 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000959983 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000959984 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000959985 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000959986 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000959987 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000959988 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000959989 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000959990 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000959991 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+
+# Variant: 22:41141361-41141361 C/G | input: 22 41141361 . C G . . .
+# Most severe consequence: intron_variant | Gene: 
+# Gene ID: ENSG00000100393
+  Transcript: ENST00000263253 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000634690 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000674155 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000703544 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000703545 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000715703 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000717631 | downstream_gene_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000717632 | downstream_gene_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000774286 | downstream_gene_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000916082 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000916083 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000916084 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+

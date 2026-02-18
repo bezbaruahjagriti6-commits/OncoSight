@@ -1,0 +1,25 @@
+# Virtual environments
+venv/
+env/
+.venv/
+ensembl-env/
+hack/ensembl-vep/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.log
+.env
+.env.local

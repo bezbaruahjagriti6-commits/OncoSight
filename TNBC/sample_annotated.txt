@@ -1,0 +1,39 @@
+# Variant: 1:877772-877772 G/C | input: 1 877772 . G C . . .
+# Most severe consequence: upstream_gene_variant | Gene: 
+  Transcript: ENST00000415481 | downstream_gene_variant | HGVSc:  | HGVSp:  | unprocessed_pseudogene
+  Transcript: ENST00000427857 | upstream_gene_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000446136 | upstream_gene_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000635557 | upstream_gene_variant | HGVSc:  | HGVSp:  | transcribed_unprocessed_pseudogene
+  Transcript: ENST00000736325 | upstream_gene_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000736326 | upstream_gene_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000745834 | upstream_gene_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000745835 | upstream_gene_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000745836 | upstream_gene_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000745837 | upstream_gene_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000745838 | upstream_gene_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000745839 | upstream_gene_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000745840 | upstream_gene_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000745841 | upstream_gene_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000745842 | upstream_gene_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000745843 | upstream_gene_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000745844 | upstream_gene_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000745845 | upstream_gene_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000745846 | upstream_gene_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000745847 | upstream_gene_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000745848 | upstream_gene_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000745849 | upstream_gene_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000745850 | upstream_gene_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000745851 | upstream_gene_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000745852 | upstream_gene_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000745853 | upstream_gene_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000745854 | upstream_gene_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000745855 | upstream_gene_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000745856 | upstream_gene_variant | HGVSc:  | HGVSp:  | lncRNA
+  Transcript: ENST00000745857 | upstream_gene_variant | HGVSc:  | HGVSp:  | lncRNA
+
+# Variant: 21:26960070-26960070 G/A | input: 21 26960070 rs116645811 G A . . .
+# Most severe consequence: intron_variant | Gene: 
+  Transcript: ENST00000284987 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+  Transcript: ENST00000652031 | intron_variant,NMD_transcript_variant | HGVSc:  | HGVSp:  | nonsense_mediated_decay
+  Transcript: ENST00000970346 | intron_variant | HGVSc:  | HGVSp:  | protein_coding
+

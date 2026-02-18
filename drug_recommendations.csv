@@ -1,0 +1,14 @@
+gene_id,gene_symbol,drug_name,drug_class,evidence_level,notes
+ENSG00000140481,AMFR,Pembrolizumab,Immunotherapy (PD-1 inhibitor),Guideline,Consider with chemotherapy in biomarker-selected TNBC
+ENSG00000140481,AMFR,Paclitaxel,Chemotherapy (taxane),Guideline,Standard neoadjuvant/adjuvant option
+ENSG00000115290,ACTA2,Pembrolizumab,Immunotherapy (PD-1 inhibitor),Guideline,PD-L1 positive TNBC; combine with chemotherapy
+ENSG00000115290,ACTA2,Olaparib,PARP inhibitor,Guideline,If germline BRCA mutation present
+ENSG00000115290,ACTA2,Sacituzumab govitecan,Antibody-drug conjugate,Guideline,Metastatic TNBC after prior therapy
+ENSG00000012048,BRCA1,Olaparib,PARP inhibitor,Guideline,Germline BRCA-mutated TNBC
+ENSG00000012048,BRCA1,Talazoparib,PARP inhibitor,Guideline,Germline BRCA-mutated TNBC
+ENSG00000139618,BRCA2,Olaparib,PARP inhibitor,Guideline,Germline BRCA-mutated TNBC
+ENSG00000139618,BRCA2,Talazoparib,PARP inhibitor,Guideline,Germline BRCA-mutated TNBC
+ENSG00000141510,TP53,Carboplatin,Platinum chemotherapy,Guideline,Consider in TNBC; p53 pathway
+ENSG00000141510,TP53,Doxorubicin,Anthracycline chemotherapy,Guideline,Neoadjuvant/adjuvant regimens
+ENSG00000115414,KRT17,Pembrolizumab,Immunotherapy,Guideline,TNBC immunotherapy-eligible
+ENSG00000115414,KRT17,Anthracycline + taxane,Chemotherapy,Guideline,Standard neoadjuvant regimen
