@@ -1,25 +1,19 @@
-# Virtual environments
-venv/
-env/
-.venv/
-ensembl-env/
-hack/ensembl-vep/
-
 # Python
 __pycache__/
 *.py[cod]
-*.pyo
+*$py.class
+*.so
 .Python
-*.egg-info/
-.eggs/
-dist/
-build/
+env/
+venv/
+venv*/
+.venv/
 
-# IDE / OS
-.idea/
-.vscode/
-.DS_Store
-Thumbs.db
-*.log
-.env
-.env.local
+# Project specific
+pipeline_output/
+*.vcf
+*.vcf.gz
+*_vep_annotated.txt
+*_filtered_variants.csv
+*_potential_biomarkers.csv
+*_report.pdf
